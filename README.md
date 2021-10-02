@@ -44,7 +44,7 @@ A background script that automatically handles texture compression so that VRCha
 >
 > This script automatically detects when you are about to upload an avatar and which avatar you are about to upload. It then automatically finds all the textures that avatar uses and compresses them so that your avatar uploads small and optimized.
 >
-> It also means that avatar creators can include this script in their avatar packages if they want to guarentee that people can never forget to optimize their textures before uploading. (You can also set your textures to not use crunch compression by default, which speeds up your package import time by a lot!)
+> It also means that avatar creators can include this script in their avatar packages if they want to guarantee that people can never forget to optimize their textures before uploading. (You can also set your textures to not use crunch compression by default, which speeds up your package import time by a lot!)
   
 </details>
 
