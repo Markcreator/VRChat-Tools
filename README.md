@@ -26,6 +26,9 @@ A free alternative to the [Dynamic Bone](https://assetstore.unity.com/packages/t
 > The only drawback to this package is that you cannot test your bones inside Unity directly, only within VRChat.
   
 </details>
+[Download](https://github.com/Markcreator/VRChat-Tools/releases/download/DynamicBone.Containers.v1.0/DynamicBone.Containers.v1.0.unitypackage)
+
+<br />
 
 ## [TextureCompressor](https://github.com/Markcreator/VRChat-Tools/releases/download/TextureCompressor.v1.0/TextureCompressor.v1.0.unitypackage)
 
