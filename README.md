@@ -5,8 +5,10 @@
   <p>
      A collection of useful VRChat related tools and scripting!
   </p>
-
-  <br />
+  <p>
+     Made by <a href="https://markcreator.net/">Markcreator</a>
+  </p>
+  
   <br />
 </div>
 
