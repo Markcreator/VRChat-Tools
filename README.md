@@ -21,7 +21,7 @@ A free alternative to the [Dynamic Bone](https://assetstore.unity.com/packages/t
   
 > In the past VRChat users had to purchase the third-party Dynamic Bone package in order to upload an avatar that featured dynamic bones. 
 >
-> Using this package, you are able to upload avatars that use dynamic bones without needing the original package. 
+> Using this package, you are able to upload avatars that use dynamic bones without needing the original Dynamic Bone package. 
 >
 > It works by intepreting the original bone information and handing it to the VRChat SDK as expected.
 >
