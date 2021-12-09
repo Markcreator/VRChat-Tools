@@ -12,7 +12,7 @@
   <br />
 </div>
 
-## [Dynamic Bone Container](https://github.com/Markcreator/VRChat-Tools/releases/download/Dynamic.Bone.Container.v1.3.0/Dynamic.Bone.Container.v1.3.0.unitypackage)
+## [Dynamic Bone Container v1.3.0](https://github.com/Markcreator/VRChat-Tools/releases/download/Dynamic.Bone.Container.v1.3.0/Dynamic.Bone.Container.v1.3.0.unitypackage)
 
 A free alternative to the [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743) package that can interpret bone information and works for uploading to VRChat.
  
@@ -33,7 +33,7 @@ A free alternative to the [Dynamic Bone](https://assetstore.unity.com/packages/t
 
 <br />
 
-## [TextureCompressor](https://github.com/Markcreator/VRChat-Tools/releases/download/TextureCompressor.v1.0/TextureCompressor.v1.0.unitypackage)
+## [TextureCompressor v1.0](https://github.com/Markcreator/VRChat-Tools/releases/download/TextureCompressor.v1.0/TextureCompressor.v1.0.unitypackage)
 
 A background script that automatically handles texture compression so that VRChat avatars always upload small and optimized.
  
