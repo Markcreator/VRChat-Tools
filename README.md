@@ -12,7 +12,7 @@
   <br />
 </div>
 
-## [Dynamic Bone Container](https://github.com/Markcreator/VRChat-Tools/releases/download/Dynamic.Bone.Container.v1.1/Dynamic.Bone.Container.v1.1.unitypackage)
+## [Dynamic Bone Container](https://github.com/Markcreator/VRChat-Tools/releases/download/Dynamic.Bone.Container.v1.3.0/Dynamic.Bone.Container.v1.3.0.unitypackage)
 
 A free alternative to the [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743) package that can interpret bone information and works for uploading to VRChat.
  
@@ -29,7 +29,7 @@ A free alternative to the [Dynamic Bone](https://assetstore.unity.com/packages/t
   
 </details>
 
-[Download](https://github.com/Markcreator/VRChat-Tools/releases/download/Dynamic.Bone.Container.v1.1/Dynamic.Bone.Container.v1.1.unitypackage)
+[Download](https://github.com/Markcreator/VRChat-Tools/releases/download/Dynamic.Bone.Container.v1.3.0/Dynamic.Bone.Container.v1.3.0.unitypackage)
 
 <br />
 
