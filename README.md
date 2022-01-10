@@ -33,6 +33,14 @@ A free alternative to the [Dynamic Bone](https://assetstore.unity.com/packages/t
 
 <br />
 
+## [SizeProfiler v1.0](https://github.com/Markcreator/VRChat-Tools/releases/download/SizeProfiler.v1.0/SizeProfiler.v1.0.unitypackage)
+
+An interface that lets you inspect any object in Unity and find its dependencies and file size breakdown.
+
+[Download](https://github.com/Markcreator/VRChat-Tools/releases/download/SizeProfiler.v1.0/SizeProfiler.v1.0.unitypackage)
+
+<br />
+
 ## [TextureCompressor v1.0](https://github.com/Markcreator/VRChat-Tools/releases/download/TextureCompressor.v1.0/TextureCompressor.v1.0.unitypackage)
 
 A background script that automatically handles texture compression so that VRChat avatars always upload small and optimized.
