@@ -33,11 +33,11 @@ A free alternative to the [Dynamic Bone](https://assetstore.unity.com/packages/t
 
 <br />
 
-## [SizeProfiler v1.0](https://github.com/Markcreator/VRChat-Tools/releases/download/SizeProfiler.v1.0/SizeProfiler.v1.0.unitypackage)
+## [SizeProfiler v1.1](https://github.com/Markcreator/VRChat-Tools/releases/download/SizeProfiler.v1.1/SizeProfiler.v1.1.unitypackage)
 
 An interface that lets you inspect any object in Unity and find its dependencies and file size breakdown.
 
-[Download](https://github.com/Markcreator/VRChat-Tools/releases/download/SizeProfiler.v1.0/SizeProfiler.v1.0.unitypackage)
+[Download](https://github.com/Markcreator/VRChat-Tools/releases/download/SizeProfiler.v1.1/SizeProfiler.v1.1.unitypackage)
 
 <br />
 
